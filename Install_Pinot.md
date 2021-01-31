@@ -2,7 +2,7 @@
 #### Bước 1: Tải Ubuntu của Microsoft Store <br>
 https://ubuntu.com/wsl <br>
 Để tìm thư mục chính trên Windows Subsystem của Linux: \\\wsl$\Ubuntu\home <br>
-`![Viblo logo](https://viblo.asia/img/logo-v2.png)`
+![Viblo logo](https://github.com/longtrinhvan/BigData/blob/main/Picture/home.PNG)
 
 #### Bước 2: Cài đặt OpenJDK và Apache Maven trên Ubuntu <br>
 https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-18-04/ <br>
