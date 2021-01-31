@@ -15,9 +15,13 @@ Cài đặt Apache Maven trên Ubuntu <br>
   $ sudo apt update
   ```
   Bước 2: Cài đặt <br>
-  $ sudo apt install maven <br>
+  ```
+  $ sudo apt install maven
+  ```
   Bước 3: Kiểm tra <br>
-  $ mvn -version <br>
+  ```
+  $ mvn -version
+  ```
 
 #### Bước 3: Tải file: apache-pinot-incubating-0.6.0-bin.tar <br>
 http://pinot.apache.org/download <br>
