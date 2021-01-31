@@ -8,7 +8,7 @@ https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-18-04/
 #### Step 3 Download file: apache-pinot-incubating-0.6.0-bin.tar
 http://pinot.apache.org/download
 #### Step 4 Unzip apache-pinot-incubating-0.6.0-bin.tar and move directory to home directory location on Windows Subsystem for Linux
-#### Step 5 Run Pinot using Ubuntu
+#### Step 5 Run Pinot using Ubuntu from the Microsoft Store
 https://docs.pinot.apache.org/basics/getting-started/running-pinot-locally
 
 
