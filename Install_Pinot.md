@@ -1,5 +1,5 @@
 
-#### Bước 1: Tải Ubuntu của Microsoft Store <br>
+#### Bước 1: Tải Ubuntu của Microsoft Store và cài đặt <br>
 https://ubuntu.com/wsl <br>
 Để tìm thư mục chính trên Windows Subsystem của Linux: \\\wsl$\Ubuntu\home <br>
 ![Viblo logo](https://github.com/longtrinhvan/BigData/blob/main/Picture/home.PNG)
