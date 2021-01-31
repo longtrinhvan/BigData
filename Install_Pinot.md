@@ -9,13 +9,13 @@ https://ubuntu.com/wsl <br>
 
 #### Bước 2: Cài đặt OpenJDK và Apache Maven trên Ubuntu <br>
 
-Cài đặt Apache Maven trên Ubuntu
-  Bước 1: Cập nhật package
-  $ sudo apt update
-  Bước 2: Cài đặt
-  $ sudo apt install maven
-  Bước 3: Kiểm tra
-  $ mvn -version
+Cài đặt Apache Maven trên Ubuntu <br>
+  Bước 1: Cập nhật package <br>
+  $ sudo apt update <br>
+  Bước 2: Cài đặt <br>
+  $ sudo apt install maven <br>
+  Bước 3: Kiểm tra <br>
+  $ mvn -version <br>
 
 #### Bước 3: Tải file: apache-pinot-incubating-0.6.0-bin.tar <br>
 http://pinot.apache.org/download <br>
