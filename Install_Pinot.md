@@ -3,7 +3,7 @@
 https://ubuntu.com/wsl <br>
 Để tìm thư mục chính trên Windows Subsystem của Linux: \\\wsl$\Ubuntu\home <br>
 #### Bước 2: Cài đặt OpenJDK và Apache Maven trên Ubuntu <br>
-**Cài đặt Apache Maven trên Ubuntu**
+**Cài đặt Apache Maven trên Ubuntu** <br>
   Bước 1: Cập nhật package <br>
   ```
   $ sudo apt update
