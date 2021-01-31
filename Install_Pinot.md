@@ -17,6 +17,20 @@ https://ubuntu.com/wsl <br>
   $ mvn -version
   ```
 
+**Cài đặt OpenJDK trên Ubuntu** <br>
+  Bước 1: Cập nhật package <br>
+  ```
+  $ sudo apt update
+  ```
+  Bước 2: Cài đặt <br>
+  ```
+  $ sudo apt install default-jdk
+  ```
+  Bước 3: Kiểm tra <br>
+  ```
+  $ java -version
+  ```
+
 #### Bước 3: Tải file: apache-pinot-incubating-0.6.0-bin.tar <br>
 http://pinot.apache.org/download <br>
 #### Bước 4: Giải nén file  apache-pinot-incubating-0.6.0-bin.tar và di chuyển đến thư mục chính trên Windows Subsystem của Linux <br>
