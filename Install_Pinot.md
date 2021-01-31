@@ -8,7 +8,15 @@ https://ubuntu.com/wsl <br>
 ![Viblo logo](https://github.com/longtrinhvan/BigData/blob/main/Picture/home.PNG)
 
 #### Bước 2: Cài đặt OpenJDK và Apache Maven trên Ubuntu <br>
-https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-18-04/ <br>
+
+Cài đặt Apache Maven trên Ubuntu
+  Bước 1: Cập nhật package
+  $ sudo apt update
+  Bước 2: Cài đặt
+  $ sudo apt install maven
+  Bước 3: Kiểm tra
+  $ mvn -version
+
 #### Bước 3: Tải file: apache-pinot-incubating-0.6.0-bin.tar <br>
 http://pinot.apache.org/download <br>
 #### Bước 4: Giải nén file  apache-pinot-incubating-0.6.0-bin.tar và di chuyển đến thư mục chính trên Windows Subsystem của Linux <br>
