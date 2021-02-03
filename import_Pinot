@@ -1,0 +1,5 @@
+
+sh bin/pinot-admin.sh AddTable -tableConfigFile examples/batch/airlineStats/airlineStats_offline_table_config.json -schemaFile examples/batch/airlineStats/airlineStats_schema.json -exec
+
+
+long@DESKTOP-UHEJ90S:~/pinot$ sh bin/pinot-admin.sh LaunchDataIngestionJob -jobSpecFile examples/batch/airlineStats/sparkIngestionJobSpec.yml
